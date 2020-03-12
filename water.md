@@ -17,8 +17,9 @@
 - North America
 	- Alabama
 		- Auburn: 5
-		- Lauderdale County (Chisholm Hills Water Authority): 5
-		- Doug & Gail Moomaw (untreated well): 6
+		- Lauderdale County
+			- Chisholm Hills Water Authority: 5
+			- Doug & Gail Moomaw (untreated well): 6
 	- Georgia
 	- Florida
 	- South Carolina
@@ -29,9 +30,9 @@
 - Europe
 	- Italy
 	- Germany
-		- Fürth: 8
+		- F&uuml;rth: 8
 	- Spain
-		- San Sebastián: 6
+		- San Sebasti&aacute;n: 6
 		- Madrid: 7
 		- Pamplona: 7
 		- Barcelona: 3
