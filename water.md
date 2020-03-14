@@ -1,3 +1,5 @@
+<link href="./style.css" rel="stylesheet" type="text/css" media="all" />
+
 # The One True Water Rating
 
 - 0: This water is not potable.
